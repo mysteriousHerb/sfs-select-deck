@@ -53,7 +53,7 @@ class sfs_select(object):
         except IOError:
             self.settings = {}
             newfile = True
-        self.settings.setdefault("steampath", os.path.join("..", ".."))
+        self.settings.setdefault("steampath", "/home/deck/.local/share/Steam")
         self.settings.setdefault("order", [])
         self.settings.setdefault("namecache", {})
         self.settings.setdefault("autoquit", False)

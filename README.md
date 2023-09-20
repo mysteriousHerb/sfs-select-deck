@@ -7,7 +7,7 @@ Fork for the sfs-select to run on deck or other linux system, fork from https://
 - `pyinstaller sfs-select.py --noconfirm --onefile --name sfs-select --icon="data/sfs-select.ico" `
 
 ### How to use
-- in the first pop up window, paste the steam address, for steam deck this is `home/deck/.local/share/Steam/userdata/`
+- in the first pop up window, paste the steam address, for steam deck this is `/home/deck/.local/share/Steam`
 - Then it is self explanatary, refer to https://steamcommunity.com/groups/familysharing/discussions/1/3068621701744549116/
 
 ### For development
