@@ -1,0 +1,28 @@
+{
+    "autoquit": false,
+    "autorestart": false,
+    "autostart": false,
+    "namecache": {
+        "content": {
+            "128533775": "The Last POTUS",
+            "1429269744": "defaultdict(None, {})",
+            "1553169863": "defaultdict(None, {})",
+            "1585432961": "herbzcn"
+        },
+        "fallback": {
+            "128533775": "The Last POTUS",
+            "1429269744": "defaultdict(None, {})",
+            "1553169863": "defaultdict(None, {})",
+            "1585432961": "herbzcn"
+        },
+        "time": 1695237632.3068388
+    },
+    "order": [
+        "1429269744",
+        "1553169863",
+        "128533775",
+        "1585432961"
+    ],
+    "steampath": "C:/Program Files (x86)/Steam",
+    "steampath2": "C:/Program Files (x86)/Steam\\"
+}
